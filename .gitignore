@@ -1,4 +1,4 @@
-# Private Keys - NEVER COMMIT THESE!
+# Private Keys 
 *.json
 *wallet*.json
 current-authority.json
