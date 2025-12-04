@@ -1,0 +1,40 @@
+# Private Keys - NEVER COMMIT THESE!
+*.json
+*wallet*.json
+current-authority.json
+new-authority.json
+pda-wallet.json
+gen-wallet.js
+
+# Node modules
+node_modules/
+.npm/
+
+# Environment files
+.env
+.env.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build outputs
+dist/
+build/
+*.js.map
+
+# Logs
+*.log
+npm-debug.log*
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Zip files
+*.zip
